@@ -1,5 +1,4 @@
 # Mesh Setup & Export for Blender
-A repo for an Add-on named MeshSetupAndExport
 
 Thanks for checkout out my Add-on! Since this is available free if you like it the only thing I ask is for you to review it positively on the marketplace you recieved it from :)
 
